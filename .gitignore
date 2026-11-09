@@ -1,0 +1,5 @@
+# Bỏ qua file build của .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
